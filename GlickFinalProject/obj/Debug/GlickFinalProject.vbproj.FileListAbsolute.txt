@@ -1,0 +1,14 @@
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\bin\Debug\GlickFinalProject.exe.config
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\bin\Debug\GlickFinalProject.exe
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\bin\Debug\GlickFinalProject.pdb
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\bin\Debug\GlickFinalProject.xml
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.AllYourBaseAreBelongToUs.resources
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.MultTable.resources
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.Resources.resources
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.vbproj.GenerateResource.Cache
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.exe
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.xml
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.pdb
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.BackString.resources
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.BGColor.resources
+c:\users\prometheus\documents\visual studio 2012\Projects\VB\GlickFinalProject\GlickFinalProject\obj\Debug\GlickFinalProject.MathMagic.resources

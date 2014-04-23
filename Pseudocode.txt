@@ -1,0 +1,81 @@
+main()
+	strR = new stringReverser
+	multTable = new MultiplicationTable
+	colourPicker = new ColorPicker(Me)
+	numSquarer = new NumberSquarer
+
+main.buttonStrR
+	me.hide
+	strR.show
+
+main.buttonMultTable
+	me.hide
+	multTable.show
+
+main.buttonColourPicker
+	me.hide
+	colourPicker.show
+
+main.buttonNumSquarer
+	me.hide
+	numSquarer.show
+
+stringReverserMain()
+
+main.buttonReverse
+	MsgBox(StringReverse(textBoxInput.Text))
+
+main.close
+	me.hide
+	mainForm.show
+
+MultiplicationTableMain()
+
+main.calcTable
+	int horizontal = dropbox1.value
+	int vertical = dropbox2.value
+
+	string r = vbTab
+	for(int i = 1 to horizontal)
+		r &= i
+	listbox.items.add(r)
+
+	string row = ""
+	for(int i = 1 to vertical)
+		row &= i
+		for(int q = 1 to horizontal)
+			row &= vbTab + (string) q*i
+		
+		listbox.items.add(row)
+		row = ""
+	
+main.close
+	me.hide
+	mainForm.show
+
+
+MathMagicMain()
+
+main.buttonByRef
+	calcByRef(input.value)
+
+calcByRef(ByRef int in)
+	MsgBox(in * in)
+
+main.close
+	me.hide
+	mainForm.show
+
+main.buttonByFunc
+	MsgBox(input.value * input.value)
+
+
+BackgroundColorMain(base As mainForm)
+
+main.pickColor
+	Me.BGColor = ColorDialog.PickedColor
+	base.bgColor = me.bgcolor
+
+main.close
+	me.hide
+	mainForm.show

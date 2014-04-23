@@ -29,8 +29,6 @@
             tableBox.Items.Add(row)
             row = ""
         Next
-
-        tableBox.Show()
     End Sub
 
     Private Sub returnToMain_Click(sender As Object, e As EventArgs) Handles returnToMain.Click
